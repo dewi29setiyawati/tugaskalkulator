@@ -39,7 +39,7 @@ namespace CalculatorConsoleApp
             break;
           case 3:
             Console.WriteLine();
-            Console.WriteLine("Hasil Perkalian : {0} * {1} = {2}", a, b, Perkalian(a, b)):
+            Console.WriteLine("Hasil Perkalian : {0} * {1} = {2}", a, b, Perkalian(a, b));
             break;
           case 4:
             Console.WriteLine();
